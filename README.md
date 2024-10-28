@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 오늘도 즐거운 하루입니다. 👋
 
 <!--
 **Eomcoco/Eomcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
